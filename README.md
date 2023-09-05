@@ -5,7 +5,7 @@
   - Equations: Typically derived using Newton's second law of motion.
   - Features: Demonstrates behaviors like simple harmonic motion, damping, and forced vibrations.
 
-- [ ] **Simple Pendulum**
+- [x] **Simple Pendulum**
   - Description: A mass hanging from a pivot that can oscillate due to gravity.
   - Equations: Derived using Newtonian mechanics or the Lagrangian approach.
   - Features: Demonstrates simple harmonic motion, especially when damping and driven forces are excluded.
